@@ -13,4 +13,5 @@ Hello
 ＃ ローカルのテキスト
 あaa
 あああｑｑｑwww
+#github
 # mac
